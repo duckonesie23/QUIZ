@@ -1,0 +1,16 @@
+var a1 = prompt("testing"); var score = 0; if(a1 = "q") {
+    alert('YAY');
+    score=score +1
+} else{
+    alert("Noo")
+} var a2 = prompt("testing2"); if(a2 = "w") {
+    alert("yay")
+    socre=score + 1
+} else {
+    alert('noo')
+} var a3 = prompt("testing3"); if(a3 = "e") {
+    alert("YaY");
+    score=score + 1;
+} else {
+    alert("nooo");
+} alert(score)
